@@ -1,0 +1,22 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+l can link to useful things like
+[google](https://www.google.com/) and [p8105](https://www.p8105.com)
+
+l can make extra pages on my site and link to that. Here is my [about](about.html)
+
+## Here's screenshot
+this is a screenshot
+
+<img src="images/123.jpg" style="width:75%">
